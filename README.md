@@ -1,4 +1,4 @@
-The columnflow project was moved to [github.com/columnflow/columnflow](https://github.com/columnflow/columnflow).
+⚠️ The columnflow project was moved to [github.com/columnflow/columnflow](https://github.com/columnflow/columnflow).
 
 In case you had columnflow previously setup as a submodule in your project, run
 
